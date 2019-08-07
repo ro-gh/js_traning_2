@@ -1,0 +1,19 @@
+#sample {
+    width: 300px;
+    padding: 30px;
+    font-size: 30px;
+    background-color: #f00;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#sampleButton {
+    width: 360px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#sampleButton {
+    font-size: 16px;
+}

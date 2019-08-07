@@ -1,0 +1,21 @@
+#sample {
+    width: 300px;
+    padding: 50px;
+    background-color: #0f0;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#sampleButton {
+    width: 400px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#sampleButton {
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+    margin-right: 5px;
+}
